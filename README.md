@@ -1,4 +1,4 @@
-# Fire-Warning-And-Extinguishing-IoT-System
+# Fire Warning And Extinguishing IoT System
 The Smart Fire Warning and Extinguishing IoT System is a comprehensive project designed to detect and respond to fire hazards using a combination of hardware and software components. The system leverages Arduino as the central processing unit, alongside various sensors and actuators, to detect fire-related threats and take automated actions to mitigate the danger.
 
 ### Key Technologies and Components:
